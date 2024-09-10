@@ -4,7 +4,7 @@
 |이름|담당|주소|
 |:---:|:---:|:---:|
 |김민욱|프론트|https://github.com/MinWook6457|
-|이찬희|백엔드|[https://github.com/jiwoopark727](https://github.com/greenday1234)|
+|이찬희|백엔드|https://github.com/greenday1234|
 
 ## STACK
 |BACK|FRONT|
