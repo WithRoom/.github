@@ -1,4 +1,6 @@
-## 스터디 모집 플랫폼🧙
+## 스터디 모집 플랫폼 : WITH ROOM
+
+## <a href="https://www.withroom.store/home">배포 사이트</a>
 
 ## Member
 |이름|담당|주소|
